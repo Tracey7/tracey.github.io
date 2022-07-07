@@ -1,0 +1,277 @@
+body{
+    background-color: #383838;
+}
+.containerall{
+    margin: auto;
+}
+li{
+    display: inline;
+}
+ul{
+    margin-left: 80px;
+    padding: 15px;
+    height: 25px;
+    padding-left: 100px;
+    margin-bottom: auto;
+   
+    margin-bottom: 20px;
+}
+a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    float: left;
+    
+}
+ul a:hover{
+    color: orangered;
+    
+}
+.banner{
+    margin: auto;
+    width: 1400px;
+    height: 400px;
+    
+}
+.logo{
+    margin: auto;
+    float: left;
+}
+.name{
+    margin: auto;
+  
+    
+}
+.images{
+    margin: auto;
+    background-color: aliceblue;
+}
+.trainer{
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+    
+}
+.nutrition{
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.equipment{
+    float:left;
+    margin-left: 20px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+h1,h3{
+    text-align: center;
+    color: black;
+}
+p{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+.btn{
+    background-color: grey;
+    color: black;
+    text-align: center;
+    width: 160px;
+    font-size: 14px;
+    padding: 10px 14px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    margin: auto;
+    margin-left: 120px;
+}
+.btn:hover{
+    background-color: #FAF3F3;
+    
+}
+.sec1{
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.sec2{
+    float: left;
+    margin-top: 20px;
+   
+    margin-left: 20px;
+
+}
+.sec3{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.phead{
+    margin-top: 20px;
+}
+h2{ 
+    text-align: center;
+    margin-top: 60px;
+    color: #CDBE78;
+    
+}
+.head{
+    margin-top: 50px;
+}
+.banner{
+    text-align: center;
+}
+.section1{
+    
+    height:500px ;
+    margin-top:150px;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+    
+}
+.p1{
+    
+    width: 550px;
+    height: 436px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 40px;
+    color: black;
+}
+.show1{
+    float:left;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-right: 30px;
+    
+}
+.section2{
+     
+    height:500px ;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.show2{
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+.p2{
+    
+    width:550px ;
+    float: left;
+    margin-left: 150px;
+    height: 436px;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+.section3{
+   
+    height:500px ;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.p3{
+    
+    width: 550px;
+    height: 436px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.show3{
+    float: left;
+    margin-left: 150px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.section1,.section2,.section3{
+    border-radius: 10px;
+}
+.part1{
+    margin-top: 100px;
+}
+.day1{
+    background-color: #CDBE78;
+    float:left;
+    width: 135px;
+    margin-left: 20px;
+}
+.day2{
+    background-color: #CDBE78;
+    float:left;
+    width: 135px;
+    margin-left: 50px;
+}
+.part2{
+    margin-left: 120px;
+}
+.time1{
+    background-color: aliceblue;
+    width:135px ;
+    margin-left: 20px;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+.time2{
+    background-color: aliceblue;
+    width:135px ;
+    margin-left: 50px;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+.part3{
+    margin-left: 120px;
+}
+
+
+.part4{
+    background-color: azure;
+    width: 945px;
+}
+.classes1{
+    background-color: #FAF3F3;
+    width: 1300px;
+    height: 300px;
+}
+.container{
+    margin: auto;
+    margin-top: 50px;
+   
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-top: 50px;
+
+}
+.intro{
+    
+    margin-top: 60px;
+    width: 1000px;
+    margin-left: 250px;
+}
+h1{
+    text-align: center;
+}
+.end{
+    background-color: #DDDDDD;
+    color: black!important;
+    
+   
+}
+
+a{
+    color: black!important;
+}
+
+
